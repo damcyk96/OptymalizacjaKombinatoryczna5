@@ -1,4 +1,5 @@
-##Program optymalizacja zad 5
+## Program optymalizacja zad 5
+
 ![solution](opt.png)
 
 ##### Najpierw npm i, potem node main.js
